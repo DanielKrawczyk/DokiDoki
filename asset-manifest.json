@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DokiDoki/static/css/main.f0bfc849.chunk.css",
+    "main.js": "/DokiDoki/static/js/main.013cb3ca.chunk.js",
+    "main.js.map": "/DokiDoki/static/js/main.013cb3ca.chunk.js.map",
+    "runtime-main.js": "/DokiDoki/static/js/runtime-main.3a2151e8.js",
+    "runtime-main.js.map": "/DokiDoki/static/js/runtime-main.3a2151e8.js.map",
+    "static/js/2.0d43962e.chunk.js": "/DokiDoki/static/js/2.0d43962e.chunk.js",
+    "static/js/2.0d43962e.chunk.js.map": "/DokiDoki/static/js/2.0d43962e.chunk.js.map",
+    "index.html": "/DokiDoki/index.html",
+    "static/css/main.f0bfc849.chunk.css.map": "/DokiDoki/static/css/main.f0bfc849.chunk.css.map",
+    "static/js/2.0d43962e.chunk.js.LICENSE.txt": "/DokiDoki/static/js/2.0d43962e.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/DokiDoki/static/media/VerilySerifMono.309689d5.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a2151e8.js",
+    "static/js/2.0d43962e.chunk.js",
+    "static/css/main.f0bfc849.chunk.css",
+    "static/js/main.013cb3ca.chunk.js"
+  ]
+}
